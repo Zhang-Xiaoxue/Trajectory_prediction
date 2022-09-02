@@ -3,8 +3,8 @@
 At current stage, I just implemented the LSTM to do trajectory prediction
 
 requirements:
-tensorflow 2.*
-python 3.8
+- tensorflow 2.*
+- python 3.8
 
 run `main.py`
 - `test()` in `main.py` is to test in the datasets
